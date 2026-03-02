@@ -4,7 +4,7 @@ Check it out at: https://intense-depths-97149.herokuapp.com/
 
 Today, we’ll get you up and running with a basic web application that you’ll then be able to build off of. But first, there are a few accounts you’ll need to set up and technologies you’ll need to install on your computer.
 
-## Part One: Getting the code on your machine
+## Part One: Getting the code on your machine.
 
 #### 1. Install the tools:
 - [ ] Create a <a href="https://signup.heroku.com/" target="_blank">Heroku account</a> (Make sure to set your primary language as "Node")
